@@ -1,6 +1,6 @@
 # FastUAV Refinement of the structural module
 
-FAST-UAV
+FAST-UAV @felixpollet
 ========
 
 FAST-UAV is a solution to perform optimal drone design with a multi-disciplinary approach.
